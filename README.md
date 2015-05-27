@@ -20,21 +20,21 @@ WebDesign
 
 10breadcrumb,pagination,pager
 
-11Navbar
+11Navbar - ナビゲーションバー
 
-12Navbar(SmartPhone)
+12Navbar(SmartPhone) - スマホ対応ナビゲーションバー
 
 13label,badge,alert,panel
 
-14progress-bar
+14progress-bar - プログレスバー
 
-15ModalWindow
+15ModalWindow - モーダルウィンドウ
 
 16TabMenu
 
 17tooltip,popover
 
-18Carousel
+18Carousel - カルーセル
 
 # Author
 Fumihiko Akagi
