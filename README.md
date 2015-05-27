@@ -3,6 +3,9 @@ Bootstrap
 
 WebDesign
 
+# Details
+
+
 # Author
 Fumihiko Akagi
 
