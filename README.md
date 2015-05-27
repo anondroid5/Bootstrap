@@ -4,7 +4,7 @@ Bootstrap
 WebDesign
 
 # Details
-03GridSystem
+03GridSystem - グリッドシステムのサンプル
 
 04ResponsibleWebDesign
 
