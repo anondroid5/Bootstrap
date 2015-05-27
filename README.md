@@ -6,17 +6,17 @@ WebDesign
 # Details
 03GridSystem - グリッドシステムのサンプル
 
-04ResponsibleWebDesign
+04ResponsibleWebDesign - レスポンシブWEBデザイン
 
-05tableStyle
+05tableStyle - テーブルのスタイリング
 
-06formStyle01
+06formStyle01 - フォームのスタイリング(1)
 
-07formStyle02
+07formStyle02 - フォームのスタイリング(2)
 
-08GlyphiconsAndButton
+08GlyphiconsAndButton - Glyphiconsとボタン
 
-09dropdownMenu
+09dropdownMenu - ドロップダウンメニュー
 
 10breadcrumb,pagination,pager
 
@@ -30,9 +30,9 @@ WebDesign
 
 15ModalWindow - モーダルウィンドウ
 
-16TabMenu
+16TabMenu - タブメニュー
 
-17tooltip,popover
+17tooltip,popover - ツールチップ,ポップオーバー
 
 18Carousel - カルーセル
 
