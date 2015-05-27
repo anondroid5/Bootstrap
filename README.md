@@ -4,7 +4,37 @@ Bootstrap
 WebDesign
 
 # Details
+03GridSystem
 
+04ResponsibleWebDesign
+
+05tableStyle
+
+06formStyle01
+
+07formStyle02
+
+08GlyphiconsAndButton
+
+09dropdownMenu
+
+10breadcrumb,pagination,pager
+
+11Navbar
+
+12Navbar(SmartPhone)
+
+13label,badge,alert,panel
+
+14progress-bar
+
+15ModalWindow
+
+16TabMenu
+
+17tooltip,popover
+
+18Carousel
 
 # Author
 Fumihiko Akagi
