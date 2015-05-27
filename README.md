@@ -3,6 +3,8 @@ Bootstrap
 
 WebDesign
 
+This repositry is just for my study.
+
 # Details
 03GridSystem - グリッドシステムのサンプル
 
