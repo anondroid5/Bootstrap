@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+      <title>Bootstrapの練習</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+  
+    <div class="container" style="padding:20px 0">
+    	<p><a href="#" data-toggle="tooltip" title="説明">this</a> and <a href="#" data-toggle="popover" title="説明" data-content="さらに説明">that</a>.</p>
+    </div>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script>
+    	$(function() {
+    		$("[data-toggle=tooltip]").tooltip({
+    			placement: 'bottom'
+    		});
+    		$("[data-toggle=popover]").popover({
+				
+    		});
+		});
+    </script>
+  </body>
+</html>
