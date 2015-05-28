@@ -6,37 +6,37 @@ WebDesign
 This repositry is just for my study.
 
 # Details
-03.GridSystem - グリッドシステムのサンプル
+03.GridSystem - グリッドシステム
 
-04.ResponsibleWebDesign - レスポンシブWEBデザインのサンプル
+04.ResponsibleWebDesign - レスポンシブWEBデザイン
 
-05.tableStyle - テーブルのスタイリングのサンプル
+05.tableStyle - テーブルのスタイリング
 
-06.formStyle01 - フォームのスタイリングのサンプル(1)
+06.formStyle01 - フォームのスタイリング(1)
 
-07.formStyle02 - フォームのスタイリングのサンプル(2)
+07.formStyle02 - フォームのスタイリング(2)
 
-08.GlyphiconsAndButton - Glyphiconsとボタンのサンプル
+08.GlyphiconsAndButton - Glyphiconsとボタン
 
-09.dropdownMenu - ドロップダウンメニューのサンプル
+09.dropdownMenu - ドロップダウンメニュー
 
 10.breadcrumb,pagination,pager
 
-11.Navbar - ナビゲーションバーのサンプル
+11.Navbar - ナビゲーションバー
 
-12.Navbar(SmartPhone) - スマホ対応ナビゲーションバーのサンプル
+12.Navbar(SmartPhone) - スマホ対応ナビゲーションバー
 
 13.label,badge,alert,panel
 
-14.progress-bar - プログレスバーのサンプル
+14.progress-bar - プログレスバー
 
-15.ModalWindow - モーダルウィンドウのサンプル
+15.ModalWindow - モーダルウィンドウ
 
-16.TabMenu - タブメニューのサンプル
+16.TabMenu - タブメニュー
 
-17.tooltip,popover - ツールチップ,ポップオーバーのサンプル
+17.tooltip,popover - ツールチップ,ポップオーバー
 
-18.Carousel - カルーセルのサンプル
+18.Carousel - カルーセル
 
 # Author
 Fumihiko Akagi
